@@ -48,7 +48,7 @@
 
 ## Установка
 
-1. Скачайте `.zip` архив. [>> Скачать <<](https://github.com/Keva1z)
+1. Скачайте `.zip` архив. [>> Скачать <<](https://github.com/Keva1z/zapret-lists/archive/refs/heads/main.zip)
 
 2. Переместите все `.txt` файлы в папку `lists` в zapret и перезапустите сервис.
 
